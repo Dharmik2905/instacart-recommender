@@ -122,8 +122,8 @@ Special thanks to [Austin Poole](https://www.linkedin.com/in/austinpoole) for hi
 ## 📬 Contact
 
 **Dharmik Bhagat**  
-📧 dharmik@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/dharmik2905) | [GitHub](https://github.com/Dharmik2905)
+📧 dharmik.bhagat@tamu.edu 
+🔗 [LinkedIn](https://linkedin.com/in/dharmikbhagat) | [GitHub](https://github.com/Dharmik2905)
 
 ---
 
